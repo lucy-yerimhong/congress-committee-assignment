@@ -5,10 +5,10 @@ A data pipeline for collecting and storing congressional committee/subcommittee 
 ```
 .
 ├── notebooks/
-│   ├── congressapi.ipynb   # Committee metadata (listings, membership, etc.)
-│   ├── reports.ipynb       # Committee report text collection (active)
+│   ├── congressapi.ipynb   # Committee metadata (listings, membership, leadership, etc.)
+│   ├── reports.ipynb       # Committee reports (active)
 │   ├── print.ipynb         # Committee print collection
-│   └── mtgs.ipynb          # Committee meeting collection
+│   └── mtgs.ipynb          # Committee meetings
 └── README.md
 ```
 
